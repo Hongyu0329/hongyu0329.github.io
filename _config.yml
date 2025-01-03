@@ -21,7 +21,7 @@ repository               : "Hongyu0329/hongyu0329.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal.jpg"
   name             : "Justin (Hongyu) Wang"
   pronouns         : "He/His"  
   bio              : "Computer Architecture"
