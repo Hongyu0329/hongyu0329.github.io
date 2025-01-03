@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electrical and Computer Engineering, UWMadison, 2025
-* B.E. in Electrical and Electronic Engineering, University of Glasgow, 2020
-* B.E. in Electronic and Information Engineering, UESTC, 2020
+* M.S. in Electrical and Computer Engineering, UWMadison, 2025 (expected)
+* B.E. in Electrical and Electronic Engineering, University of Glasgow, 2024
+* B.E. in Electronic and Information Engineering, UESTC, 2024
 
 Work experience
 ======
