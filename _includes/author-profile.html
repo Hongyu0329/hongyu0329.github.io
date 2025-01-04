@@ -30,6 +30,9 @@
       {% if author.employer %}
         <li><i class="fas fa-fw fa-building-columns icon-pad-right"></i>{{ author.employer }}</li>
       {% endif %}
+      {% if author.cv %}
+        <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf icon-pad-right"></i>CV</a></li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" ></i>{{ site.data.ui-text[site.locale].website_label}}</a></li>
       {% endif %}
